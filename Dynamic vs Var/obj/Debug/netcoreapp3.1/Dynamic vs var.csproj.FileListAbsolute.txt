@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\bin\Debug\netcoreapp3.1\Dynamic vs var.exe
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\bin\Debug\netcoreapp3.1\Dynamic vs var.deps.json
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\bin\Debug\netcoreapp3.1\Dynamic vs var.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\bin\Debug\netcoreapp3.1\Dynamic vs var.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\bin\Debug\netcoreapp3.1\Dynamic vs var.dll
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\bin\Debug\netcoreapp3.1\Dynamic vs var.pdb
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\obj\Debug\netcoreapp3.1\Dynamic vs var.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\obj\Debug\netcoreapp3.1\Dynamic vs var.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\obj\Debug\netcoreapp3.1\Dynamic vs var.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\obj\Debug\netcoreapp3.1\Dynamic vs var.dll
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\obj\Debug\netcoreapp3.1\Dynamic vs var.pdb
+C:\Users\Rohit Dasari\source\repos\Dynamic vs var\obj\Debug\netcoreapp3.1\Dynamic vs var.genruntimeconfig.cache
