@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\bin\Debug\netcoreapp3.1\Dynamic vs object.exe
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\bin\Debug\netcoreapp3.1\Dynamic vs object.deps.json
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\bin\Debug\netcoreapp3.1\Dynamic vs object.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\bin\Debug\netcoreapp3.1\Dynamic vs object.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\bin\Debug\netcoreapp3.1\Dynamic vs object.dll
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\bin\Debug\netcoreapp3.1\Dynamic vs object.pdb
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.dll
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.pdb
+C:\Users\Rohit Dasari\source\repos\Dynamic vs object\obj\Debug\netcoreapp3.1\Dynamic vs object.genruntimeconfig.cache
